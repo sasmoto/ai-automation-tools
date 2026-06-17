@@ -1,2 +1,10 @@
-# ai-automation-tools
-AI-powered automation tools and productivity solutions
+
+# AI Automation Tools
+
+Automation projects powered by artificial intelligence.
+
+## Features
+- Task automation
+- Data processing
+- AI-assisted workflows
+- Productivity tools
